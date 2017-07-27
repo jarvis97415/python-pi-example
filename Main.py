@@ -1,10 +1,11 @@
 #!/usr/bin/python3
 def main(msg):
 <<<<<<< HEAD
-    // Another comment
-    // Adding a different comment here
-    // Print a message
+    // No longer need comments here
 >>>>>>> refs/remotes/origin/master
     print(msg)
+
+def secondary()
+    print("New function")
 
 main("Hello People!")
